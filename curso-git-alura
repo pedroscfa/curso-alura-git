@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Minha página de teste da Alura</title>
+  </head>
+  <body>
+    <h1>Página do Curso de Git/GitHub da Alura para DevOps</h1>
+    <p>O Princípio do Curso</p>
+  </body>
+</html>
